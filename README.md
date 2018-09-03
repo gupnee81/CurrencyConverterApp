@@ -27,3 +27,4 @@ http://localhost:3000/new
 * Field level validation
 * Normalization of input fields
 * Unit Test cases
+* Prop types
