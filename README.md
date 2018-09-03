@@ -6,3 +6,4 @@ Router to use to load application
 http://localhost:3000/new
 
 NPM Modules apart from basic
+Redux, Redux-Saga, styled-components, Redux-form, axios
