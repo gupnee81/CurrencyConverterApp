@@ -8,7 +8,11 @@ Router to use to load application
 http://localhost:3000/new
 
 NPM Modules apart from basic
-redux, redux-saga, styled-components, redux-form, axios
+* redux
+* redux-saga
+* styled-components
+* redux-form
+* axios
 
 Steps to load application - 
 1) git clone https://github.com/gupnee81/CurrencyConverterApp.git
