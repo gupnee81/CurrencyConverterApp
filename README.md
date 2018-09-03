@@ -1,5 +1,7 @@
 This is a project to implement currency conversion, using ReactJS. It takes inputs from user to display values, read from the backend API.
 
+It is partially responsive.
+
 ## Details
 
 Router to use to load application
@@ -20,4 +22,4 @@ Areas not addressed -
 1) Redirect of route to /new
 2) Field level validation
 3) normalization of input fields
-4) Jest
+4) Unit Test cases
