@@ -10,8 +10,6 @@ export function* retrieveApplicationSaga() {
     if(apiResponse.response) {
         yield put(myQuoteActions.retrieveApplicationSuccess(apiResponse.response.data));
     } else {
-		console.log('aaaaa');
-		console.log(apiResponse);
         yield put(myQuoteActions.retrieveApplicationFail(apiResponse));
     }
 
