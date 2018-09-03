@@ -23,7 +23,7 @@ Steps to load application -
 
 
 Areas not addressed - 
-1) Redirect of route to /new
-2) Field level validation
-3) normalization of input fields
-4) Unit Test cases
+* Redirect of route to /new
+* Field level validation
+* Normalization of input fields
+* Unit Test cases
